@@ -1,0 +1,8 @@
+﻿Comandos git:
+git init: crear un repositorio asociado a una carpeta.
+
+Git status -s: listar el contenido del repositorio de git(archivos y carpetas)
+
+	?? el archivo o carpeta no tiene seguimiento por git.
+	A  el archivo o carpeta pasa al área de ensayo y que esta seguida por git.
+Git add. : Pasar el contenido de la carpeta de trabajo al area de ensayo.
