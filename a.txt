@@ -6,3 +6,9 @@ Git status -s: listar el contenido del repositorio de git(archivos y carpetas)
 	?? el archivo o carpeta no tiene seguimiento por git.
 	A  el archivo o carpeta pasa al área de ensayo y que esta seguida por git.
 Git add. : Pasar el contenido de la carpeta de trabajo al area de ensayo.
+
+Git commit -m “comentario o nombre del estado del repositorio”
+
+git log –oneline para ver los comit que tenemos
+
+git reset –-hard codigo del comit al que se vuelve
